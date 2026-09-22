@@ -42,4 +42,4 @@ Conceived and led development of an interactive alphabet-teaching toy with holog
 
 | Exterior | Wiring | Hologram |
 |----------|--------|----------|
-| ![Exterior](Images/External/ufo.jpg) | ![Wiring](Images/Internal/wiring.jpg) | ![Hologram](docs/Final_Presentation/Final_Letter.png) |
+| ![Exterior](Images/External/01_Cover.jpg) | ![Wiring](Images/Internal/Internal_wiring_final.jpg) | ![Hologram](docs/Final_Presentation/Final_Letter.png) |
